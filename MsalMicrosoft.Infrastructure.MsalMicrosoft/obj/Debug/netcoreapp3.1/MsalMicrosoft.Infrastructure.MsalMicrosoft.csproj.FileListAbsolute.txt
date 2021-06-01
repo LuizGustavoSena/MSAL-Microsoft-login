@@ -1,0 +1,12 @@
+C:\Users\Luiz Sena\Documents\Team\MyProjects\MsalMicrosoft\MsalMicrosoft.Infrastructure.MsalMicrosoft\bin\Debug\netcoreapp3.1\MsalMicrosoft.Infrastructure.MsalMicrosoft.deps.json
+C:\Users\Luiz Sena\Documents\Team\MyProjects\MsalMicrosoft\MsalMicrosoft.Infrastructure.MsalMicrosoft\bin\Debug\netcoreapp3.1\MsalMicrosoft.Infrastructure.MsalMicrosoft.dll
+C:\Users\Luiz Sena\Documents\Team\MyProjects\MsalMicrosoft\MsalMicrosoft.Infrastructure.MsalMicrosoft\bin\Debug\netcoreapp3.1\MsalMicrosoft.Infrastructure.MsalMicrosoft.pdb
+C:\Users\Luiz Sena\Documents\Team\MyProjects\MsalMicrosoft\MsalMicrosoft.Infrastructure.MsalMicrosoft\bin\Debug\netcoreapp3.1\MsalMicrosoft.CrossCutting.dll
+C:\Users\Luiz Sena\Documents\Team\MyProjects\MsalMicrosoft\MsalMicrosoft.Infrastructure.MsalMicrosoft\bin\Debug\netcoreapp3.1\MsalMicrosoft.CrossCutting.pdb
+C:\Users\Luiz Sena\Documents\Team\MyProjects\MsalMicrosoft\MsalMicrosoft.Infrastructure.MsalMicrosoft\obj\Debug\netcoreapp3.1\MsalMicrosoft.Infrastructure.MsalMicrosoft.csprojAssemblyReference.cache
+C:\Users\Luiz Sena\Documents\Team\MyProjects\MsalMicrosoft\MsalMicrosoft.Infrastructure.MsalMicrosoft\obj\Debug\netcoreapp3.1\MsalMicrosoft.Infrastructure.MsalMicrosoft.AssemblyInfoInputs.cache
+C:\Users\Luiz Sena\Documents\Team\MyProjects\MsalMicrosoft\MsalMicrosoft.Infrastructure.MsalMicrosoft\obj\Debug\netcoreapp3.1\MsalMicrosoft.Infrastructure.MsalMicrosoft.AssemblyInfo.cs
+C:\Users\Luiz Sena\Documents\Team\MyProjects\MsalMicrosoft\MsalMicrosoft.Infrastructure.MsalMicrosoft\obj\Debug\netcoreapp3.1\MsalMicrosoft.Infrastructure.MsalMicrosoft.csproj.CoreCompileInputs.cache
+C:\Users\Luiz Sena\Documents\Team\MyProjects\MsalMicrosoft\MsalMicrosoft.Infrastructure.MsalMicrosoft\obj\Debug\netcoreapp3.1\MsalMicrosoft.Infrastructure.MsalMicrosoft.csproj.CopyComplete
+C:\Users\Luiz Sena\Documents\Team\MyProjects\MsalMicrosoft\MsalMicrosoft.Infrastructure.MsalMicrosoft\obj\Debug\netcoreapp3.1\MsalMicrosoft.Infrastructure.MsalMicrosoft.dll
+C:\Users\Luiz Sena\Documents\Team\MyProjects\MsalMicrosoft\MsalMicrosoft.Infrastructure.MsalMicrosoft\obj\Debug\netcoreapp3.1\MsalMicrosoft.Infrastructure.MsalMicrosoft.pdb

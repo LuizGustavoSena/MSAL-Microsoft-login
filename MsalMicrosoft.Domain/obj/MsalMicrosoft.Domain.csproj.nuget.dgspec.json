@@ -1,0 +1,204 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Luiz Sena\\Documents\\Team\\MyProjects\\MsalMicrosoft\\MsalMicrosoft.Domain\\MsalMicrosoft.Domain.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Luiz Sena\\Documents\\Team\\MyProjects\\MsalMicrosoft\\MsalMicrosoft.CrossCutting\\MsalMicrosoft.CrossCutting.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Luiz Sena\\Documents\\Team\\MyProjects\\MsalMicrosoft\\MsalMicrosoft.CrossCutting\\MsalMicrosoft.CrossCutting.csproj",
+        "projectName": "MsalMicrosoft.CrossCutting",
+        "projectPath": "C:\\Users\\Luiz Sena\\Documents\\Team\\MyProjects\\MsalMicrosoft\\MsalMicrosoft.CrossCutting\\MsalMicrosoft.CrossCutting.csproj",
+        "packagesPath": "C:\\Users\\Luiz Sena\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Luiz Sena\\Documents\\Team\\MyProjects\\MsalMicrosoft\\MsalMicrosoft.CrossCutting\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Luiz Sena\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://azuldevops.pkgs.visualstudio.com/_packaging/azulframework/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Luiz Sena\\Documents\\Team\\MyProjects\\MsalMicrosoft\\MsalMicrosoft.Domain\\MsalMicrosoft.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Luiz Sena\\Documents\\Team\\MyProjects\\MsalMicrosoft\\MsalMicrosoft.Domain\\MsalMicrosoft.Domain.csproj",
+        "projectName": "MsalMicrosoft.Domain",
+        "projectPath": "C:\\Users\\Luiz Sena\\Documents\\Team\\MyProjects\\MsalMicrosoft\\MsalMicrosoft.Domain\\MsalMicrosoft.Domain.csproj",
+        "packagesPath": "C:\\Users\\Luiz Sena\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Luiz Sena\\Documents\\Team\\MyProjects\\MsalMicrosoft\\MsalMicrosoft.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Luiz Sena\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://azuldevops.pkgs.visualstudio.com/_packaging/azulframework/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Luiz Sena\\Documents\\Team\\MyProjects\\MsalMicrosoft\\MsalMicrosoft.CrossCutting\\MsalMicrosoft.CrossCutting.csproj": {
+                "projectPath": "C:\\Users\\Luiz Sena\\Documents\\Team\\MyProjects\\MsalMicrosoft\\MsalMicrosoft.CrossCutting\\MsalMicrosoft.CrossCutting.csproj"
+              },
+              "C:\\Users\\Luiz Sena\\Documents\\Team\\MyProjects\\MsalMicrosoft\\MsalMicrosoft.Infrastructure.MsalMicrosoft\\MsalMicrosoft.Infrastructure.MsalMicrosoft.csproj": {
+                "projectPath": "C:\\Users\\Luiz Sena\\Documents\\Team\\MyProjects\\MsalMicrosoft\\MsalMicrosoft.Infrastructure.MsalMicrosoft\\MsalMicrosoft.Infrastructure.MsalMicrosoft.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Luiz Sena\\Documents\\Team\\MyProjects\\MsalMicrosoft\\MsalMicrosoft.Infrastructure.MsalMicrosoft\\MsalMicrosoft.Infrastructure.MsalMicrosoft.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Luiz Sena\\Documents\\Team\\MyProjects\\MsalMicrosoft\\MsalMicrosoft.Infrastructure.MsalMicrosoft\\MsalMicrosoft.Infrastructure.MsalMicrosoft.csproj",
+        "projectName": "MsalMicrosoft.Infrastructure.MsalMicrosoft",
+        "projectPath": "C:\\Users\\Luiz Sena\\Documents\\Team\\MyProjects\\MsalMicrosoft\\MsalMicrosoft.Infrastructure.MsalMicrosoft\\MsalMicrosoft.Infrastructure.MsalMicrosoft.csproj",
+        "packagesPath": "C:\\Users\\Luiz Sena\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Luiz Sena\\Documents\\Team\\MyProjects\\MsalMicrosoft\\MsalMicrosoft.Infrastructure.MsalMicrosoft\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Luiz Sena\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://azuldevops.pkgs.visualstudio.com/_packaging/azulframework/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Luiz Sena\\Documents\\Team\\MyProjects\\MsalMicrosoft\\MsalMicrosoft.CrossCutting\\MsalMicrosoft.CrossCutting.csproj": {
+                "projectPath": "C:\\Users\\Luiz Sena\\Documents\\Team\\MyProjects\\MsalMicrosoft\\MsalMicrosoft.CrossCutting\\MsalMicrosoft.CrossCutting.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Flurl.Http": {
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Microsoft.Identity.Client": {
+              "target": "Package",
+              "version": "[4.31.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

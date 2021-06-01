@@ -1,0 +1,9 @@
+C:\Users\Luiz Sena\Documents\Team\MyProjects\MsalMicrosoft\MsalMicrosoft.CrossCutting\bin\Debug\netcoreapp3.1\MsalMicrosoft.CrossCutting.deps.json
+C:\Users\Luiz Sena\Documents\Team\MyProjects\MsalMicrosoft\MsalMicrosoft.CrossCutting\bin\Debug\netcoreapp3.1\MsalMicrosoft.CrossCutting.dll
+C:\Users\Luiz Sena\Documents\Team\MyProjects\MsalMicrosoft\MsalMicrosoft.CrossCutting\bin\Debug\netcoreapp3.1\MsalMicrosoft.CrossCutting.pdb
+C:\Users\Luiz Sena\Documents\Team\MyProjects\MsalMicrosoft\MsalMicrosoft.CrossCutting\obj\Debug\netcoreapp3.1\MsalMicrosoft.CrossCutting.csprojAssemblyReference.cache
+C:\Users\Luiz Sena\Documents\Team\MyProjects\MsalMicrosoft\MsalMicrosoft.CrossCutting\obj\Debug\netcoreapp3.1\MsalMicrosoft.CrossCutting.AssemblyInfoInputs.cache
+C:\Users\Luiz Sena\Documents\Team\MyProjects\MsalMicrosoft\MsalMicrosoft.CrossCutting\obj\Debug\netcoreapp3.1\MsalMicrosoft.CrossCutting.AssemblyInfo.cs
+C:\Users\Luiz Sena\Documents\Team\MyProjects\MsalMicrosoft\MsalMicrosoft.CrossCutting\obj\Debug\netcoreapp3.1\MsalMicrosoft.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\Luiz Sena\Documents\Team\MyProjects\MsalMicrosoft\MsalMicrosoft.CrossCutting\obj\Debug\netcoreapp3.1\MsalMicrosoft.CrossCutting.dll
+C:\Users\Luiz Sena\Documents\Team\MyProjects\MsalMicrosoft\MsalMicrosoft.CrossCutting\obj\Debug\netcoreapp3.1\MsalMicrosoft.CrossCutting.pdb
